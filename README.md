@@ -1,6 +1,6 @@
-# Capstone Project : Battleship 2D Game
+# 2D Action Platformer Game
 
-Final project for the Thinkful course.
+New project inspired the divine comedy "Dante's Inferno"
 
 ## Built With
 
@@ -13,13 +13,14 @@ Final project for the Thinkful course.
 
 ## Authors
 
-* **Gabriel Salas** - intial work and idea -
-* **Matias Salas**  - helped me put together the server stuff and game logic -
+* **Gabriel Salas** - initial work and idea -
+* **Matias Salas**  - server stuff and game logic -
 
 ## Acknowledgments
 
 * John Watson - The base game mechanics - [Check it out here](http://gamemechanicexplorer.com/)
+* ZenvaAcademy - The basis of our platformer code
 
 ## Project Preview
 
-* Link - { https://gabesal.github.io/Capstone-Battleship/build/index.html }
+* Link - { https://gabesal.github.io/Circles-of-Hell/build/index.html }
